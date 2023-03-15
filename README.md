@@ -1,2 +1,2 @@
-# adiw
-#It is I! the untested tasty branch! would you like a bite?
+# Trapich - Adi K-W
+#Different data analysis I did for either projects in my workplace or while volunteering for NPO's
